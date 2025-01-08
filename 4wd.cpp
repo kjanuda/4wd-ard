@@ -26,10 +26,7 @@ void setup() {
   pinMode(ENA, OUTPUT);
   pinMode(IN1, OUTPUT);
   pinMode(IN2, OUTPUT);
-  pinMode(ENB, OUTPUT);
-  pinMode(IN3, OUTPUT);
-  pinMode(IN4, OUTPUT);
-
+ 
   pinMode(TRACK_LEFT, INPUT);
   pinMode(TRACK_RIGHT, INPUT);
   pinMode(TRACK_MIDDLE_LEFT, INPUT);
